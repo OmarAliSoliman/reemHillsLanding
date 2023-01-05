@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+  <g id="Group_89" data-name="Group 89" transform="translate(-899 -835)">
+    <path id="Path_512" data-name="Path 512" d="M198.523,162.487c-4.69,2.962-10.367,10.244-10.367,28.141l-6.665-6.789-1.728,1.728,9.5,9.75,9.75-9.5-1.728-1.728-6.665,6.419c0-12.1,2.839-20.859,7.9-25.055.247,7.652,3.7,14.07,7.776,16.663,3.333,2.1,7.036,1.6,10.121-1.235,4.073-3.826,5.061-8.764,2.592-13.207-2.962-5.184-10.738-9.257-17.9-6.542,1.728-11.972,11.108-30.116,53.566-29.869v-2.468c-44.186-.247-54.8,19.748-56.158,33.695Zm18.391,6.418c1.111,1.975,2.345,6.048-2.1,10.244-2.345,2.1-4.814,2.468-7.159.988-3.826-2.345-6.789-8.764-6.665-16.168,5.924-2.962,13.206.246,15.921,4.937Z" transform="translate(742.777 733.946)" fill="#d7ac85"/>
+    <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(899 835)" fill="none" stroke="#d7ac85" stroke-width="1">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="60.5" fill="none"/>
+    </g>
+    <text id="Scroll" transform="translate(952 934)" fill="#d7ac85" font-size="14" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.092em"><tspan x="0" y="0">Scroll</tspan></text>
+  </g>
+</svg>
